@@ -1,0 +1,5 @@
+# Ignore icons added by users
+icons/*
+
+# Ignore Links added by users
+links.js
