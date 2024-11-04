@@ -20,7 +20,7 @@ A preview of the page is available here: [Homepage V2 preview on GitHub pages](h
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/homepage_v2.git
+   git clone https://github.com/lindestad/homepage_v2
    cd homepage_v2
 
 2. Setup Links and Icons
