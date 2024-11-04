@@ -11,6 +11,10 @@
 - **Dynamic Card Population**: Cards with links and icons are populated dynamically through a separate configuration file, making it easy to customize.
 - **No Server Required**: Runs directly from a local file without the need for a server, bypassing common CORS issues.
 - **Modern Design**: Uses a sleek, gray design language with easily customizable icons and layout.
+
+## Preview
+
+A preview of the page is available here: [Homepage V2 preview on GitHub pages](https://lindestad.github.io/homepage_v2/)
   
 ## Getting Started
 
