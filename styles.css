@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+body {
+    background-color: #212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 20px;
+}
+
+.icon-card p {
+    margin-top: 10px;
+    color: 
+}
+
+.icon-card {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center vertically */
+    background-color: #2f2f2f;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Align text to the left */
+    padding: 15px; /* Adjust padding as needed */
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.icon-card:hover {
+    transform: scale(1.05);
+}
+
+.icon-card img {
+    width: 50px; /* Set icon width */
+    height: 50px; /* Set icon height */
+    margin-right: 15px; /* Space between icon and text */
+}
+
+.icon-card p {
+    margin: 0; /* Remove default margin */
+    color: #ececec /* Text color */
+}
