@@ -24,11 +24,6 @@ body {
     gap: 20px;
 }
 
-.icon-card p {
-    margin-top: 10px;
-    color: 
-}
-
 .icon-card {
     display: flex; /* Use flexbox for layout */
     align-items: center; /* Center vertically */
